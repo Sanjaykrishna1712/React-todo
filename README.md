@@ -1,2 +1,2 @@
 # React-todo
-It is the basic todo appilication fully responsive.
+It is the basic todo appilication fully responsive using reactjs.
